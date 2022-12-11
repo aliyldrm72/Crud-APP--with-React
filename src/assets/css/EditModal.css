@@ -1,0 +1,32 @@
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 1000vh;
+    padding: 5px;
+    background-color: rgba(60, 54, 54, 0.604);
+
+}
+
+.containerSecond {
+    background-color: aliceblue;
+    width: 50%;
+    max-height: 80vh;
+    padding: 5px;
+    border-radius: 10px;
+
+
+
+
+}
+
+h1 {
+    text-align: center;
+    color: black;
+
+
+}

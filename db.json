@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "1668276704829",
+      "number": "545",
+      "name": "ali",
+      "surname": "yildirim",
+      "class": "45-i"
+    },
+    {
+      "id": "1670781864709",
+      "number": "216",
+      "name": "ahmet",
+      "surname": "kaya ",
+      "class": "12-t"
+    }
+  ]
+}
